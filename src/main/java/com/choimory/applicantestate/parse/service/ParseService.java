@@ -25,7 +25,7 @@ public class ParseService {
         InputStream inputStream = new ClassPathResource(FILE_PATH + File.separator + FILE_NAME + fileNumber + EXTENSION).getInputStream();
         RawData rawData = objectMapper.readValue(inputStream, RawData.class);
 
-        // Output으로 변환 // 반환
+        // Output으로 변환 및 반환
         return Output.to(rawData);
     }
 }
