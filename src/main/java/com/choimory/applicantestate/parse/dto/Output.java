@@ -1,7 +1,9 @@
 package com.choimory.applicantestate.parse.dto;
 
+import ch.qos.logback.core.util.StringUtil;
 import lombok.Builder;
 import lombok.Getter;
+import org.springframework.util.StringUtils;
 
 import java.util.List;
 
@@ -22,6 +24,10 @@ public class Output {
 
     public static Output to(RawData rawData) {
         return Output.builder()
+                .title(Title.to(rawData.getAddress()))
+                //.owners()
+                //.gapgu()
+                //.eulgu()
                 .build();
     }
 
@@ -37,7 +43,10 @@ public class Output {
         }
 
         public static Title to(String address) {
-            return Title.builder().build();
+            return Title.builder()
+                    .fullAddress(address)
+                    //.buildingType() // TODO address에서 첫번째 [내용] 파싱
+                    .build();
         }
     }
 
@@ -59,7 +68,14 @@ public class Output {
         }
 
         public static Owner to() {
-            return Owner.builder().build();
+            // TODO SUMMARY_A_DATA[]에서 공백 데이터 제외, 중복 데이터는 합산 (홍길동의 SHARE가 10/120, 30/120일시, 40/120)
+            return Owner.builder()
+                    //.name() // TODO SUMMARY_A_DATA[].SUMMARY_NAME
+                    //.age() // TODO SUMMARY_A_DATA[].SUMMARY_REGNO_RESIDENT
+                    //.share() // TODO SUMMARY_A_DATA[].SUMMARY_SHARE
+                    //.address() // TODO SUMMARY_A_DATA[].ADDRESS
+                    //.buyDate() // TODO ?
+                    .build();
         }
     }
 
@@ -83,7 +99,14 @@ public class Output {
         }
 
         public static Gapgu to() {
-            return Gapgu.builder().build();
+            return Gapgu.builder()
+                    //.seizureCount() // TODO KAP_DATA[].KAP_PURPOSE="압류" 횟수
+                    //.provisionalSeizureCount() // TODO KAP_DATA[].KAP_PURPOSE="가압류" 횟수
+                    //.provisionalDispositionCount() // TODO KAP_DATA[].KAP_PURPOSE="가처분" 횟수
+                    //.voluntaryAuctionCount() // TODO KAP_DATA[].KAP_PURPOSE="임의경매개시결정" 횟수
+                    //.compulsoryAuctionCount() // TODO KAP_DATA[].KAP_PURPOSE="강제경매개시결정" 횟수
+                    //.bankruptcyCount() // TODO KAP_DATA[].KAP_PURPOSE="파산선고" 횟수
+                    .build();
         }
     }
 
@@ -103,7 +126,12 @@ public class Output {
         }
 
         public static Eulgu to() {
-            return Eulgu.builder().build();
+            return Eulgu.builder()
+                    //.collateralTotalAmount() // TODO EUL_DATA[].EUL_ETC에서 채권내용 파싱
+                    //.collateralsDetails()
+                    //.leaseTotalAmount() // TODO EUL_DATA[].EUL_ETC에서 임차내용 파싱
+                    //.leaseDetails()
+                    .build();
         }
     }
 
@@ -123,7 +151,16 @@ public class Output {
         }
 
         public static CollateralDetail to() {
-            return CollateralDetail.builder().build();
+            // 1.SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값중 채권최고액이 포함되어있으면 근저당권 내용
+            // 2. 1의 다음값은 근저당권자 내용
+            // 3. 2 다음에 근저당권 이전이 있으면 해당 내용이 케이스에 따라 있을수도 없을수도 있음
+
+            return CollateralDetail.builder()
+                    //.rankNo()
+                    //.date() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '채권최고액'이 포함되어 있는 객체의 SUMMARY_ACCEPT_E를 포맷변경
+                    //.amount() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '채권최고액'이 포함되어 있는 객체의 SUMMARY_PARTICULAR_E에서 '채권최고액' 다음에 오는 값을 파싱하여 포맷변경
+                    //.collateralHolder() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '채권최고액'이 포함되어 있는 객체의 다음 객체에서 '근저당권자' 다음에 오는 값을 파싱 -> 근저당권이전으로 두번 붙을수도 있음
+                    .build();
         }
     }
 
@@ -143,7 +180,15 @@ public class Output {
         }
 
         public static LeaseDetail to() {
-            return LeaseDetail.builder().build();
+            // 1.SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값중 임차보증금이 포함되어있으면 임차권 내용
+            // 2. 1의 다음값은 임차권자 내용
+
+            return LeaseDetail.builder()
+                    //.rankNo()
+                    //.date() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '임차보증금'이 포함되어 있는 객체의 SUMMARY_ACCEPT_E를 포맷변경
+                    //.amount() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '임차보증금'이 포함되어 있는 객체의 SUMMARY_PARTICULAR_E에서 '임차보증금' 다음에 오는 값을 파싱하여 포맷변경
+                    //.leaseHolder() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '임차보증금'이 포함되어 있는 객체의 다음 객체에서 '임차권자' 다음에 오는 값을 파싱
+                    .build();
         }
     }
 }
