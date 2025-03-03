@@ -1,0 +1,328 @@
+{
+  "TITLE": "등기사항전부증명서(말소사항 포함) - 건물",
+  "ADDRESS": "[건물] 경기도 남양주시 별내동 887-2",
+  "DOC_TYPE": "",
+  "EUL_DATA": [
+    {
+      "EUL_NO": "1         ",
+      "EUL_ETC": "채권최고액  금540,000,000원                                                                                                     ",
+      "EUL_ACCEPT": "2016년1월28일                 ",
+      "EUL_REASON": "2016년1월28일                 ",
+      "EUL_PURPOSE": "근저당권설정                            ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "N"
+    },
+    {
+      "EUL_NO": "          ",
+      "EUL_ETC": "채무자  양은순                                                                                                                  ",
+      "EUL_ACCEPT": "제8655호                      ",
+      "EUL_REASON": "설정계약                      ",
+      "EUL_PURPOSE": "                                        ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "N"
+    },
+    {
+      "EUL_NO": "          ",
+      "EUL_ETC": "경기도 남양주시 별내중앙로 84, 3910동                                                                                           ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_REASON": "                              ",
+      "EUL_PURPOSE": "                                        ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "N"
+    },
+    {
+      "EUL_NO": "          ",
+      "EUL_ETC": "902호 (별내동,동익미라벨아파트)                                                                                                 ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_REASON": "                              ",
+      "EUL_PURPOSE": "                                        ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "N"
+    },
+    {
+      "EUL_NO": "          ",
+      "EUL_ETC": "근저당권자  별내농업협동조합  115236-0000095                                                                                    ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_REASON": "                              ",
+      "EUL_PURPOSE": "                                        ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "N"
+    },
+    {
+      "EUL_NO": "          ",
+      "EUL_ETC": "경기도 남양주시 별내2로 117 (별내동)                                                                                            ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_REASON": "                              ",
+      "EUL_PURPOSE": "                                        ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "N"
+    },
+    {
+      "EUL_NO": "          ",
+      "EUL_ETC": "( 청학지점 )                                                                                                                    ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_REASON": "                              ",
+      "EUL_PURPOSE": "                                        ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "N"
+    },
+    {
+      "EUL_NO": "          ",
+      "EUL_ETC": "공동담보  토지 경기도 남양주시 별내동 887-2                                                                                     ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_REASON": "                              ",
+      "EUL_PURPOSE": "                                        ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_SEPARATOR": "1"
+    }
+  ],
+  "KAP_DATA": [
+    {
+      "KAP_NO": "1         ",
+      "KAP_ETC": "소유자  양은순  520922-*******                                                                                                  ",
+      "KAP_ACCEPT": "2016년1월28일                 ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "소유권보존                              ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "경기도 남양주시 별내중앙로 84, 3910동                                                                                           ",
+      "KAP_ACCEPT": "제8653호                      ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "902호 (별내동,동익미라벨아파트)                                                                                                 ",
+      "KAP_ACCEPT": "                              ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "1"
+    },
+    {
+      "KAP_NO": "&2&       ",
+      "KAP_ETC": "&권리자&  &남양주시&                                                                                                            ",
+      "KAP_ACCEPT": "&2018년9월21일&               ",
+      "KAP_REASON": "&2018년9월17일&               ",
+      "KAP_PURPOSE": "&압류&                                  ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "&제104315호&                  ",
+      "KAP_REASON": "&압류(징수과-21&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "                              ",
+      "KAP_REASON": "&521)&                        ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "1"
+    },
+    {
+      "KAP_NO": "3         ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "2018년10월30일                ",
+      "KAP_REASON": "2018년10월30일                ",
+      "KAP_PURPOSE": "2번압류등기말소                         ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "제117033호                    ",
+      "KAP_REASON": "해제                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "1"
+    },
+    {
+      "KAP_NO": "&4&       ",
+      "KAP_ETC": "&권리자&  &남양주시&  &3150&                                                                                                    ",
+      "KAP_ACCEPT": "&2021년11월30일&              ",
+      "KAP_REASON": "&2021년11월29일&              ",
+      "KAP_PURPOSE": "&압류&                                  ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "&제155063호&                  ",
+      "KAP_REASON": "&압류(징수과-29&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "                              ",
+      "KAP_REASON": "&520)&                        ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "1"
+    },
+    {
+      "KAP_NO": "5         ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "2022년6월7일                  ",
+      "KAP_REASON": "2022년6월7일                  ",
+      "KAP_PURPOSE": "4번압류등기말소                         ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "N"
+    },
+    {
+      "KAP_NO": "          ",
+      "KAP_ETC": "                                                                                                                                ",
+      "KAP_ACCEPT": "제65476호                     ",
+      "KAP_REASON": "해제                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_SEPARATOR": "1"
+    }
+  ],
+  "EUL_COUNT": "00008",
+  "KAP_COUNT": "00013",
+  "LAND_DATA": [],
+  "SALE_DATA": [],
+  "BUILD_DATA": [
+    {
+      "BUILD_NO": "1         ",
+      "BUILD_ETC": "                                                                ",
+      "BUILD_ACCEPT": "2016년1월28일                 ",
+      "BUILD_ADDRESS": "                                                  ",
+      "BUILD_CONTENT": "철근콘크리트구조                                  ",
+      "BUILD_DOC_TYPE": "건물의 표시                             ",
+      "BUILD_SEPARATOR": "N"
+    },
+    {
+      "BUILD_NO": "          ",
+      "BUILD_ETC": "                                                                ",
+      "BUILD_ACCEPT": "                              ",
+      "BUILD_ADDRESS": "                                                  ",
+      "BUILD_CONTENT": "철근콘크리트(경사지붕)                            ",
+      "BUILD_DOC_TYPE": "건물의 표시                             ",
+      "BUILD_SEPARATOR": "N"
+    },
+    {
+      "BUILD_NO": "          ",
+      "BUILD_ETC": "                                                                ",
+      "BUILD_ACCEPT": "                              ",
+      "BUILD_ADDRESS": "                                                  ",
+      "BUILD_CONTENT": "4층 단독주택(다가구주택)                          ",
+      "BUILD_DOC_TYPE": "건물의 표시                             ",
+      "BUILD_SEPARATOR": "N"
+    },
+    {
+      "BUILD_NO": "          ",
+      "BUILD_ETC": "                                                                ",
+      "BUILD_ACCEPT": "                              ",
+      "BUILD_ADDRESS": "                                                  ",
+      "BUILD_CONTENT": "1층 117.44㎡                                      ",
+      "BUILD_DOC_TYPE": "건물의 표시                             ",
+      "BUILD_SEPARATOR": "N"
+    },
+    {
+      "BUILD_NO": "          ",
+      "BUILD_ETC": "                                                                ",
+      "BUILD_ACCEPT": "                              ",
+      "BUILD_ADDRESS": "                                                  ",
+      "BUILD_CONTENT": "2층 125.2㎡                                       ",
+      "BUILD_DOC_TYPE": "건물의 표시                             ",
+      "BUILD_SEPARATOR": "N"
+    },
+    {
+      "BUILD_NO": "          ",
+      "BUILD_ETC": "                                                                ",
+      "BUILD_ACCEPT": "                              ",
+      "BUILD_ADDRESS": "                                                  ",
+      "BUILD_CONTENT": "3층 125.2㎡                                       ",
+      "BUILD_DOC_TYPE": "건물의 표시                             ",
+      "BUILD_SEPARATOR": "N"
+    },
+    {
+      "BUILD_NO": "          ",
+      "BUILD_ETC": "                                                                ",
+      "BUILD_ACCEPT": "                              ",
+      "BUILD_ADDRESS": "                                                  ",
+      "BUILD_CONTENT": "4층 124.61㎡                                      ",
+      "BUILD_DOC_TYPE": "건물의 표시                             ",
+      "BUILD_SEPARATOR": "1"
+    }
+  ],
+  "ISSUE_DATE": "20250213",
+  "ISSUE_TIME": "162901",
+  "LAND_COUNT": "00000",
+  "SALE_COUNT": "00000",
+  "BUILD_COUNT": "00007",
+  "DOC_DETAILS": "",
+  "HOLDER_DATA": [],
+  "HOLDER_COUNT": "00000",
+  "REAL_ESTATE_NO": "28412016000652",
+  "SUMMARY_A_DATA": [
+    {
+      "SUMMARY_NAME": "양은순 (소유자)               ",
+      "SUMMARY_SHARE": "단독소유       ",
+      "SUMMARY_ADDRESS": "경기도 남양주시 별내중앙로 84, 3910동 902호                     ",
+      "SUMMARY_PRIORITY": "1         ",
+      "SUMMARY_SEPARATOR_A": "N",
+      "SUMMARY_REGNO_RESIDENT": "520922-*******      "
+    },
+    {
+      "SUMMARY_NAME": "                              ",
+      "SUMMARY_SHARE": "               ",
+      "SUMMARY_ADDRESS": "(별내동,동익미라벨아파트)                                       ",
+      "SUMMARY_PRIORITY": "          ",
+      "SUMMARY_SEPARATOR_A": "1",
+      "SUMMARY_REGNO_RESIDENT": "                    "
+    }
+  ],
+  "SUMMARY_E_DATA": [
+    {
+      "SUMMARY_NO_E": "1         ",
+      "SUMMARY_OWNER_E": "양은순                        ",
+      "SUMMARY_ACCEPT_E": "2016년1월28일                 ",
+      "SUMMARY_PURPOSE_E": "근저당권설정                            ",
+      "SUMMARY_SEPARATOR_E": "N",
+      "SUMMARY_PARTICULAR_E": "채권최고액  금540,000,000원                                     "
+    },
+    {
+      "SUMMARY_NO_E": "          ",
+      "SUMMARY_OWNER_E": "                              ",
+      "SUMMARY_ACCEPT_E": "제8655호                      ",
+      "SUMMARY_PURPOSE_E": "                                        ",
+      "SUMMARY_SEPARATOR_E": "1",
+      "SUMMARY_PARTICULAR_E": "근저당권자  별내농업협동조합                                    "
+    }
+  ],
+  "SUMMARY_K_DATA": [],
+  "COLLATERAL_DATA": [],
+  "OUTPUT_FILENAME": "",
+  "REGISTER_OFFICE": "의정부지방법원 남양주지원 등기과",
+  "SUMMARY_A_COUNT": "00002",
+  "SUMMARY_E_COUNT": "00002",
+  "SUMMARY_K_COUNT": "00000",
+  "COLLATERAL1_DATA": [],
+  "COLLATERAL2_DATA": [],
+  "COLLATERAL3_DATA": [],
+  "COLLATERAL4_DATA": [],
+  "COLLATERAL_COUNT": "00000",
+  "COLLATERAL1_COUNT": "00000",
+  "COLLATERAL2_COUNT": "00000",
+  "COLLATERAL3_COUNT": "00000",
+  "COLLATERAL4_COUNT": "00000"
+}

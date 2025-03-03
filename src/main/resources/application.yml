@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: applicant-estate
+server:
+    port: 9090
