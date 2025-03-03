@@ -1,0 +1,753 @@
+{
+  "EUL_DATA": [
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2023년1월6일                  ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2023년1월6일                  ",
+      "EUL_NO": "1         ",
+      "EUL_ETC": "&채권최고액  금26,128,800,000원&                                                                                                ",
+      "EUL_PURPOSE": "근저당권설정                            "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "추가설정계약                  ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제343호                       ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "채무자  주식회사무등주택개발                                                                                                    ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "광주광역시 서구 화개2로9번길 3-7, 103호                                                                                         ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "(금호동)                                                                                                                        ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "근저당권자  주식회사우리은행  110111-0023393                                                                                    ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "서울특별시 중구 소공로 51 (회현동1가)                                                                                           ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "( 광주금융센터 )                                                                                                                ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&공동담보목록  제2023-3호&                                                                                                      ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2023년1월6일                  ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2023년1월6일                  ",
+      "EUL_NO": "1-1       ",
+      "EUL_ETC": "채권최고액  금50,400,000                                                                                                        ",
+      "EUL_PURPOSE": "1번근저당권변경                         "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "근저당권변경계                ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제344호                       ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "공동담보 해제                                                                                                                   ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "약                            ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "                                        "
+    }
+  ],
+  "REGISTER_OFFICE": "전주지방법원 김제등기소",
+  "KAP_DATA": [
+    {
+      "KAP_ACCEPT": "2023년1월6일                  ",
+      "KAP_NO": "1         ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "소유권보존                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "소유자  주식회사무등주택개발  205511-0040486                                                                                    "
+    },
+    {
+      "KAP_ACCEPT": "제340호                       ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "광주광역시 서구 화개2로9번길 3-7, 103호                                                                                         "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "(금호동)                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "2023년1월6일                  ",
+      "KAP_NO": "1-1       ",
+      "KAP_REASON": "2020년9월10일                 ",
+      "KAP_PURPOSE": "민간임대주택등기                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "이 주택은 민간임대주택에 관한 특별법                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "제342호                       ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "민간임대주택                  ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "제43조제1항에 따라 임대사업자가 임대의무기간                                                                                    "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "등록                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "동안 계속 임대해야 하고 같은 법 제44조의                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "임대료 증액기준을 준수해야 하는                                                                                                 "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "민간임대주택임                                                                                                                  "
+    }
+  ],
+  "COLLATERAL3_DATA": [
+    {
+      "COLLATERAL3_ACCEPT": "2023년1월6일                  ",
+      "COLLATERAL3_BUILD_NAME": "제14층 제1402호                                   ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "철근콘크리트구조                                  ",
+      "COLLATERAL3_NO": "1         ",
+      "COLLATERAL3_SEPARATOR": "N",
+      "COLLATERAL3_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL3_ACCEPT": "                              ",
+      "COLLATERAL3_BUILD_NAME": "                                                  ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "49.5194㎡                                         ",
+      "COLLATERAL3_NO": "          ",
+      "COLLATERAL3_SEPARATOR": "1",
+      "COLLATERAL3_ETC": "                                                                "
+    }
+  ],
+  "EUL_COUNT": "00011",
+  "COLLATERAL_DATA": [],
+  "SUMMARY_A_COUNT": "00002",
+  "COLLATERAL4_COUNT": "00005",
+  "DOC_TYPE": "",
+  "COLLATERAL_COUNT": "00000",
+  "COLLATERAL1_DATA": [
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&전라북도 김제시 백산면&                          ",
+      "COLLATERAL1_ACCEPT": "&2023년1월6일&                ",
+      "COLLATERAL1_BUILD_CONTENT": "&철근콘크리트구조&                                ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "&1&       ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&부거리 1595&                                     ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&(철근)콘크리트지붕 16층&                         ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&지5스테이션아파트 제103동&                       ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&공동주택&                                        ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&[도로명주소]&                                    ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&1층 36.1678㎡&                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&전라북도 김제시 백산면&                          ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&1층 10.2125㎡&                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&지평선산단로 394-8&                              ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&2층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&3층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&4층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&5층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&6층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&7층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&8층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&9층 419.0426㎡&                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&10층 419.0426㎡&                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&11층 419.0426㎡&                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&12층 419.0426㎡&                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&13층 419.0426㎡&                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&14층 419.0426㎡&                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&15층 419.0426㎡&                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "1",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&16층 419.0426㎡&                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "전북특별자치도 김제시                             ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "철근콘크리트구조                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "2         ",
+      "COLLATERAL1_ETC": "2024년1월18일                                                   "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "백산면 부거리 1595                                ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "(철근)콘크리트지붕 16층                           ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "행정구역명칭변경으로                                            "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "지5스테이션아파트 제103동                         ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "공동주택                                          ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "인하여                                                          "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "[도로명주소]                                      ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "1층 36.1678㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "2024년1월18일  등기                                             "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "전북특별자치도 김제시                             ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "1층 10.2125㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "백산면 지평선산단로 394-8                         ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "2층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "3층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "4층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "5층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "6층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "7층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "8층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "1",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "9층 419.0426㎡                                    ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "10층 419.0426㎡                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "11층 419.0426㎡                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "12층 419.0426㎡                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "13층 419.0426㎡                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "14층 419.0426㎡                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "15층 419.0426㎡                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "1",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "16층 419.0426㎡                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    }
+  ],
+  "COLLATERAL4_DATA": [
+    {
+      "COLLATERAL4_SEPARATOR": "N",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "1         ",
+      "COLLATERAL4_LAND_RATE": "13501.1분의                   ",
+      "COLLATERAL4_LAND_KIND": "1 소유권대지권                                                                                                                  ",
+      "COLLATERAL4_ETC": "2023년1월3일 대지권                                             "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "1",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "          ",
+      "COLLATERAL4_LAND_RATE": "27.30249                      ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "2023년1월6일 등기                                               "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "N",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "2         ",
+      "COLLATERAL4_LAND_RATE": "                              ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "별도등기 있음                                                   "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "N",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "          ",
+      "COLLATERAL4_LAND_RATE": "                              ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "1토지(을구 1번 근저당권설정등기)                                "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "1",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "          ",
+      "COLLATERAL4_LAND_RATE": "                              ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "2023년1월6일 등기                                               "
+    }
+  ],
+  "ISSUE_DATE": "20250220",
+  "COLLATERAL2_COUNT": "00004",
+  "BUILD_DATA": [],
+  "COLLATERAL1_COUNT": "00040",
+  "OUTPUT_FILENAME": "estate_2148-2023-000322_1740018745619.pdf",
+  "ISSUE_TIME": "113237",
+  "SALE_DATA": [],
+  "SUMMARY_E_COUNT": "00004",
+  "HOLDER_DATA": [],
+  "SUMMARY_A_DATA": [
+    {
+      "SUMMARY_SEPARATOR_A": "N",
+      "SUMMARY_SHARE": "단독소유       ",
+      "SUMMARY_PRIORITY": "1         ",
+      "SUMMARY_REGNO_RESIDENT": "205511-0040486      ",
+      "SUMMARY_NAME": "주식회사무등주                ",
+      "SUMMARY_ADDRESS": "광주광역시 서구 화개2로9번길 3-7, 103호 (금호동)                "
+    },
+    {
+      "SUMMARY_SEPARATOR_A": "1",
+      "SUMMARY_SHARE": "               ",
+      "SUMMARY_PRIORITY": "          ",
+      "SUMMARY_REGNO_RESIDENT": "                    ",
+      "SUMMARY_NAME": "택개발 (소유자)               ",
+      "SUMMARY_ADDRESS": "                                                                "
+    }
+  ],
+  "BUILD_COUNT": "00000",
+  "SUMMARY_K_COUNT": "00004",
+  "REAL_ESTATE_NO": "21482023000322",
+  "SUMMARY_K_DATA": [
+    {
+      "SUMMARY_SEPARATOR_K": "N",
+      "SUMMARY_NO_K": "1-1       ",
+      "SUMMARY_OWNER_K": "주식회사무                    ",
+      "SUMMARY_PARTICULAR_K": "이 주택은 민간임대주택에 관한 특별법                            ",
+      "SUMMARY_PURPOSE_K": "약정/금지사항/환매특                    ",
+      "SUMMARY_ACCEPT_K": "2023년1월6일                  "
+    },
+    {
+      "SUMMARY_SEPARATOR_K": "N",
+      "SUMMARY_NO_K": "          ",
+      "SUMMARY_OWNER_K": "등주택개발                    ",
+      "SUMMARY_PARTICULAR_K": "제43조제1항에 따라 임대사업자가 임대의무기간                    ",
+      "SUMMARY_PURPOSE_K": "약                                      ",
+      "SUMMARY_ACCEPT_K": "제342호                       "
+    },
+    {
+      "SUMMARY_SEPARATOR_K": "N",
+      "SUMMARY_NO_K": "          ",
+      "SUMMARY_OWNER_K": "                              ",
+      "SUMMARY_PARTICULAR_K": "동안 계속 임대해야 하고 같은 법 제44조의 임대료                 ",
+      "SUMMARY_PURPOSE_K": "                                        ",
+      "SUMMARY_ACCEPT_K": "                              "
+    },
+    {
+      "SUMMARY_SEPARATOR_K": "1",
+      "SUMMARY_NO_K": "          ",
+      "SUMMARY_OWNER_K": "                              ",
+      "SUMMARY_PARTICULAR_K": "증액기준을 준수해야 하는 민간임대주택임                         ",
+      "SUMMARY_PURPOSE_K": "                                        ",
+      "SUMMARY_ACCEPT_K": "                              "
+    }
+  ],
+  "ADDRESS": "[집합건물] 전북특별자치도 김제시 백산면 부거리 1595 지5스테이션아파트 제103동 제14층 제1402호",
+  "KAP_COUNT": "00008",
+  "LAND_DATA": [],
+  "LAND_COUNT": "00000",
+  "SUMMARY_E_DATA": [
+    {
+      "SUMMARY_PARTICULAR_E": "&채권최고액  금26,128,800,000원&                                ",
+      "SUMMARY_PURPOSE_E": "근저당권설정                            ",
+      "SUMMARY_ACCEPT_E": "2023년1월6일                  ",
+      "SUMMARY_SEPARATOR_E": "N",
+      "SUMMARY_NO_E": "1         ",
+      "SUMMARY_OWNER_E": "주식회사무                    "
+    },
+    {
+      "SUMMARY_PARTICULAR_E": "근저당권자  주식회사우리은행                                    ",
+      "SUMMARY_PURPOSE_E": "                                        ",
+      "SUMMARY_ACCEPT_E": "제343호                       ",
+      "SUMMARY_SEPARATOR_E": "1",
+      "SUMMARY_NO_E": "          ",
+      "SUMMARY_OWNER_E": "등주택개발                    "
+    },
+    {
+      "SUMMARY_PARTICULAR_E": "채권최고액  금50,400,000                                        ",
+      "SUMMARY_PURPOSE_E": "근저당권변경                            ",
+      "SUMMARY_ACCEPT_E": "2023년1월6일                  ",
+      "SUMMARY_SEPARATOR_E": "N",
+      "SUMMARY_NO_E": "1-1       ",
+      "SUMMARY_OWNER_E": "주식회사무                    "
+    },
+    {
+      "SUMMARY_PARTICULAR_E": "                                                                ",
+      "SUMMARY_PURPOSE_E": "                                        ",
+      "SUMMARY_ACCEPT_E": "제344호                       ",
+      "SUMMARY_SEPARATOR_E": "1",
+      "SUMMARY_NO_E": "          ",
+      "SUMMARY_OWNER_E": "등주택개발                    "
+    }
+  ],
+  "TITLE": "등기사항전부증명서(말소사항 포함) - 집합건물",
+  "COLLATERAL3_COUNT": "00002",
+  "HOLDER_COUNT": "00000",
+  "DOC_DETAILS": "",
+  "COLLATERAL2_DATA": [
+    {
+      "COLLATERAL2_ETC": "&2023년1월6일 등기&                                             ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "&대&      ",
+      "COLLATERAL2_SEPARATOR": "N",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "&1&       ",
+      "COLLATERAL2_AREA": "&13501.1㎡&         "
+    },
+    {
+      "COLLATERAL2_ETC": "                                                                ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "          ",
+      "COLLATERAL2_SEPARATOR": "1",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "          ",
+      "COLLATERAL2_AREA": "                    "
+    },
+    {
+      "COLLATERAL2_ETC": "2024년1월18일 1토지 행정구역명칭변경                            ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "대        ",
+      "COLLATERAL2_SEPARATOR": "N",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "2         ",
+      "COLLATERAL2_AREA": "13501.1㎡           "
+    },
+    {
+      "COLLATERAL2_ETC": "2024년1월18일                                                   ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "          ",
+      "COLLATERAL2_SEPARATOR": "1",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "          ",
+      "COLLATERAL2_AREA": "                    "
+    }
+  ],
+  "SALE_COUNT": "00000"
+}

@@ -1,0 +1,1230 @@
+{
+  "EUL_DATA": [
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "&2017년4월24일&               ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "&2017년4월24일&               ",
+      "EUL_NO": "&1&       ",
+      "EUL_ETC": "&채권최고액  금26,400,000원&                                                                                                    ",
+      "EUL_PURPOSE": "&근저당권설정&                          "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "&설정계약&                    ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "&제23204호&                   ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&채무자&  &김애은&                                                                                                              ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&부산광역시 연제구 과정로 74, 108동&                                                                                            ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&1002호 (연산동,선경아파트)&                                                                                                    ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&근저당권자&  &주식회사부산은행&  &180111-0002997&                                                                              ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&부산광역시 남구 문현금융로 30&                                                                                                 ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&(문현동,부산은행본점)&                                                                                                         ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&( 당리동지점 )&                                                                                                                ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2021년5월10일                 ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2021년5월14일                 ",
+      "EUL_NO": "2         ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "1번근저당권설정등                       "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "임의경매로                    ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제50814호                     ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "기말소                                  "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "인한 매각                     ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "                                        "
+    }
+  ],
+  "REGISTER_OFFICE": "부산지방법원 등기국",
+  "KAP_DATA": [
+    {
+      "KAP_ACCEPT": "2017년4월7일                  ",
+      "KAP_NO": "1         ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "소유권보존                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "공유자                                                                                                                          "
+    },
+    {
+      "KAP_ACCEPT": "제19542호                     ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "지분 2분의 1                                                                                                                    "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "주식회사대성문  180111-0441450                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "부산광역시 연제구 연제로 7,                                                                                                     "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "2층(연산동,시청역퀸즈더블유)                                                                                                    "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "지분 2분의 1                                                                                                                    "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "주식회사이즈팰리스  180111-0858291                                                                                              "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "부산광역시 동구 조방로26번길 7, 103동                                                                                           "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "501호(범일동,이즈팰리스)                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "2017년4월24일                 ",
+      "KAP_NO": "2         ",
+      "KAP_REASON": "2015년10월10일                ",
+      "KAP_PURPOSE": "공유자전원지분전부                      ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "소유자  김애은  520106-*******                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "제23202호                     ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "매매                          ",
+      "KAP_PURPOSE": "이전                                    ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "부산광역시 연제구 과정로 74,108동 1002호                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "(연산동,선경아파트)                                                                                                             "
+    },
+    {
+      "KAP_ACCEPT": "&2018년1월25일&               ",
+      "KAP_NO": "&3&       ",
+      "KAP_REASON": "&2018년1월25일&               ",
+      "KAP_PURPOSE": "&가압류&                                ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&청구금액  금26,520,000 원&                                                                                                     "
+    },
+    {
+      "KAP_ACCEPT": "&제3734호&                    ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&  &장순혁&  &680920-*******&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&가압류&                      ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산 해운대구 송정중앙로25 (송정동)&                                                                                           "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&결정(2018카단3&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&54)&                         ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "&2018년2월1일&                ",
+      "KAP_NO": "&4&       ",
+      "KAP_REASON": "&2018년2월1일&                ",
+      "KAP_PURPOSE": "&가압류&                                ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&청구금액  금240,000,000원 (채권자 임정희 금&                                                                                   "
+    },
+    {
+      "KAP_ACCEPT": "&제5247호&                    ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&160,000,000원, 채권자 최순희 금&                                                                                               "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&가압류&                      ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&80,000,000원)&                                                                                                                 "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&결정(2018카합2&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&0)&                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&임정희&  &821024-*******&                                                                                                      "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 동래구 중앙대로 1523, 102동&                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&4804호 (온천동, 에스케이허브스카이)&                                                                                           "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&최순희&  &571104-*******&                                                                                                      "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 동래구 금강공원로20번길 23&                                                                                         "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&(온천동)&                                                                                                                      "
+    },
+    {
+      "KAP_ACCEPT": "&2018년2월2일&                ",
+      "KAP_NO": "&5&       ",
+      "KAP_REASON": "&2018년2월2일&                ",
+      "KAP_PURPOSE": "&가압류&                                ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&청구금액  금52,895,000 원&                                                                                                     "
+    },
+    {
+      "KAP_ACCEPT": "&제5524호&                    ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&  &김양애&  &580807-*******&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&가압류&                      ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산 동래구 중앙대로1473번길 13, 101동&                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&결정(2018카단3&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&1905호(온천동, 벽산아스타)&                                                                                                    "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&55)&                         ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "&2018년2월13일&               ",
+      "KAP_NO": "&6&       ",
+      "KAP_REASON": "&2018년2월13일&               ",
+      "KAP_PURPOSE": "&가압류&                                ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&청구금액  금60,884,000 원&                                                                                                     "
+    },
+    {
+      "KAP_ACCEPT": "&제7077호&                    ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&  &최재원&  &591003-*******&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&가압류&                      ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산 동래구 중앙대로 1523, 102동 4902호&                                                                                       "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&결정(2018카단5&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&(온천동, 에스케이허브스카이)&                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&19)&                         ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "&2018년4월12일&               ",
+      "KAP_NO": "&7&       ",
+      "KAP_REASON": "&2018년4월12일&               ",
+      "KAP_PURPOSE": "&가압류&                                ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&청구금액  금599,970,000 원&                                                                                                    "
+    },
+    {
+      "KAP_ACCEPT": "&제17161호&                   ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&가압류&                      ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&김한나&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&결정(2018카합1&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 금정구 식물원로 64, 101동&                                                                                          "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&0171)&                       ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&601호 (장전동,금정산에스케이뷰)&                                                                                               "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&문순애&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 동래구 안남로 17, 101동&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&1903호 (낙민동,동래우성아파트)&                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&유재경&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 수영구 광안로 20, 105동&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&1502호 (광안동,광안쌍용예가디오션)&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채애순&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 부산진구 당감로109번길 5,&                                                                                          "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&비동 401호 (부암동,협성프라임빌)&                                                                                              "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&김상립&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 동구 범일로89번길 36 (범일동)&                                                                                      "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&박예빈&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 해운대구 마린시티1로 167,&                                                                                          "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&307호 (우동,현대카멜리아)&                                                                                                     "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&강순애&                                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산광역시 금정구 금강로 179, 1층&                                                                                             "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&(장전동,대성빌딩)&                                                                                                             "
+    },
+    {
+      "KAP_ACCEPT": "&2018년4월24일&               ",
+      "KAP_NO": "&8&       ",
+      "KAP_REASON": "&2018년4월24일&               ",
+      "KAP_PURPOSE": "&가압류&                                ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&청구금액  금70,090,000 원&                                                                                                     "
+    },
+    {
+      "KAP_ACCEPT": "&제19381호&                   ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&  &강세비&  &670511-*******&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&가압류&                      ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산 동래구 문화로 15, 103동 1002호&                                                                                           "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&결정(2018카단1&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&(명륜동, 동래센트럴파크하이츠1차)&                                                                                             "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&797)&                        ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "&2018년7월10일&               ",
+      "KAP_NO": "&9&       ",
+      "KAP_REASON": "&2018년7월10일&               ",
+      "KAP_PURPOSE": "&임의경매개시결정&                      ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&  &주식회사부산은행&  &180111-0002997&                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "&제34392호&                   ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산 남구 문현금융로 30 (문현동,&                                                                                              "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&임의경매개시결&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산은행 본점)&                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&정(2018타경574&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&(여신관리부)&                                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&3)&                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "&2019년11월27일&              ",
+      "KAP_NO": "&10&      ",
+      "KAP_REASON": "&2019년11월27일&              ",
+      "KAP_PURPOSE": "&압류&                                  ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&권리자&  &부산진구(부산광역시)&  &2115&                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "&제57616호&                   ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&압류(세무1과-2&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&019027323)&                  ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "&2021년4월13일&               ",
+      "KAP_NO": "&11&      ",
+      "KAP_REASON": "&2021년4월13일&               ",
+      "KAP_PURPOSE": "&강제경매개시결정&                      ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&채권자&  &박외순&  &590510-*******&                                                                                            "
+    },
+    {
+      "KAP_ACCEPT": "&제31671호&                   ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&부산지방법원의&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&부산 연제구 거제천로 277, 303호(거제동)&                                                                                       "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&강제경매개시결&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&정(2021타경211&              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "&9)&                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "2021년5월14일                 ",
+      "KAP_NO": "12        ",
+      "KAP_REASON": "2021년5월10일                 ",
+      "KAP_PURPOSE": "소유권이전                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "소유자  주식회사우리부동산  180111-1302453                                                                                      "
+    },
+    {
+      "KAP_ACCEPT": "제50814호                     ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "임의경매로                    ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "부산광역시 사상구 백양대로 906, 3동                                                                                             "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "인한 매각                     ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "401호 (모라동,우성아파트)                                                                                                       "
+    },
+    {
+      "KAP_ACCEPT": "2021년5월14일                 ",
+      "KAP_NO": "13        ",
+      "KAP_REASON": "2021년5월10일                 ",
+      "KAP_PURPOSE": "3번가압류,                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "제50814호                     ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "임의경매로                    ",
+      "KAP_PURPOSE": "4번가압류,                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "인한 매각                     ",
+      "KAP_PURPOSE": "5번가압류,                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "6번가압류,                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "7번가압류,                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "8번가압류,                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "9번임의경매개시결                       ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "정, 10번압류,                           ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "11번강제경매개시결                      ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "정등기말소                              ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "                                                                                                                                "
+    }
+  ],
+  "COLLATERAL3_DATA": [
+    {
+      "COLLATERAL3_ACCEPT": "2017년4월7일                  ",
+      "COLLATERAL3_BUILD_NAME": "제7층 제104-704호                                 ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "철근콘크리트구조                                  ",
+      "COLLATERAL3_NO": "1         ",
+      "COLLATERAL3_SEPARATOR": "N",
+      "COLLATERAL3_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL3_ACCEPT": "                              ",
+      "COLLATERAL3_BUILD_NAME": "                                                  ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "40.1200㎡                                         ",
+      "COLLATERAL3_NO": "          ",
+      "COLLATERAL3_SEPARATOR": "1",
+      "COLLATERAL3_ETC": "                                                                "
+    }
+  ],
+  "EUL_COUNT": "00011",
+  "COLLATERAL_DATA": [],
+  "SUMMARY_A_COUNT": "00002",
+  "COLLATERAL4_COUNT": "00002",
+  "DOC_TYPE": "",
+  "COLLATERAL_COUNT": "00000",
+  "COLLATERAL1_DATA": [
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "부산광역시 부산진구 양정동                        ",
+      "COLLATERAL1_ACCEPT": "2017년4월7일                  ",
+      "COLLATERAL1_BUILD_CONTENT": "철근콘크리트구조                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "1         ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "397-1                                             ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "(철근)콘크리트지붕 18층                           ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "양정역퀸즈팰리스 제2동                            ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "오피스텔                                          ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "[도로명주소]                                      ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "제1종근린생활시설(휴게음                          ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "부산광역시 부산진구                               ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "식점)                                             ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "거제대로48번길 20                                 ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "1층 302.29㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "2층 271.36㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "3층 318.91㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "4층 318.91㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "5층 318.91㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "6층 318.91㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "7층 318.91㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "8층 318.91㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "9층 318.91㎡                                      ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "10층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "11층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "12층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "13층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "14층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "15층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "16층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "17층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "1",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "18층 318.91㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    }
+  ],
+  "COLLATERAL4_DATA": [
+    {
+      "COLLATERAL4_SEPARATOR": "N",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "1         ",
+      "COLLATERAL4_LAND_RATE": "2374.2분의                    ",
+      "COLLATERAL4_LAND_KIND": "1 소유권대지권                                                                                                                  ",
+      "COLLATERAL4_ETC": "2017년3월31일 대지권                                            "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "1",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "          ",
+      "COLLATERAL4_LAND_RATE": "6.8906                        ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "2017년4월7일 등기                                               "
+    }
+  ],
+  "ISSUE_DATE": "20250224",
+  "COLLATERAL2_COUNT": "00002",
+  "BUILD_DATA": [],
+  "COLLATERAL1_COUNT": "00023",
+  "OUTPUT_FILENAME": "estate_1841-2017-002036_1740365520923.pdf",
+  "ISSUE_TIME": "115216",
+  "SALE_DATA": [],
+  "SUMMARY_E_COUNT": "00000",
+  "HOLDER_DATA": [],
+  "SUMMARY_A_DATA": [
+    {
+      "SUMMARY_SEPARATOR_A": "N",
+      "SUMMARY_SHARE": "단독소유       ",
+      "SUMMARY_PRIORITY": "12        ",
+      "SUMMARY_REGNO_RESIDENT": "180111-1302453      ",
+      "SUMMARY_NAME": "주식회사우리부                ",
+      "SUMMARY_ADDRESS": "부산광역시 사상구 백양대로 906, 3동 401호                       "
+    },
+    {
+      "SUMMARY_SEPARATOR_A": "1",
+      "SUMMARY_SHARE": "               ",
+      "SUMMARY_PRIORITY": "          ",
+      "SUMMARY_REGNO_RESIDENT": "                    ",
+      "SUMMARY_NAME": "동산 (소유자)                 ",
+      "SUMMARY_ADDRESS": "(모라동,우성아파트)                                             "
+    }
+  ],
+  "BUILD_COUNT": "00000",
+  "SUMMARY_K_COUNT": "00000",
+  "REAL_ESTATE_NO": "18412017002036",
+  "SUMMARY_K_DATA": [],
+  "ADDRESS": "[집합건물] 부산광역시 부산진구 양정동 397-1 양정역퀸즈팰리스 제2동 제7층 제104-704호",
+  "KAP_COUNT": "00090",
+  "LAND_DATA": [],
+  "LAND_COUNT": "00000",
+  "SUMMARY_E_DATA": [],
+  "TITLE": "등기사항전부증명서(말소사항 포함) - 집합건물",
+  "COLLATERAL3_COUNT": "00002",
+  "HOLDER_COUNT": "00000",
+  "DOC_DETAILS": "",
+  "COLLATERAL2_DATA": [
+    {
+      "COLLATERAL2_ETC": "2017년4월7일 등기                                               ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "대        ",
+      "COLLATERAL2_SEPARATOR": "N",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "1         ",
+      "COLLATERAL2_AREA": "2374.2㎡            "
+    },
+    {
+      "COLLATERAL2_ETC": "                                                                ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "          ",
+      "COLLATERAL2_SEPARATOR": "1",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "          ",
+      "COLLATERAL2_AREA": "                    "
+    }
+  ],
+  "SALE_COUNT": "00000"
+}

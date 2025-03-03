@@ -1,0 +1,937 @@
+{
+  "EUL_DATA": [
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "&2005년9월23일&               ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "&2005년9월26일&               ",
+      "EUL_NO": "&1&       ",
+      "EUL_ETC": "&채권최고액  금26,000,000원&                                                                                                    ",
+      "EUL_PURPOSE": "&근저당권설정&                          "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "&설정계약&                    ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "&제85263호&                   ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&채무자&  &진석화&                                                                                                              ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&경기도 김포시 하성면 석탄리 135-2&                                                                                             ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&근저당권자&  &주식회사한국외환은행&                                                                                            ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&110111-0672538&                                                                                                                ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&서울 중구 을지로2가 181&                                                                                                       ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&( 목동1단지지점 )&                                                                                                             ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2005년11월15일                ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2005년11월15일                ",
+      "EUL_NO": "2         ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "1번근저당권설정등                       "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "해지                          ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제96222호                     ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "기말소                                  "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "&2022년8월30일&               ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "&2022년9월8일&                ",
+      "EUL_NO": "&3&       ",
+      "EUL_ETC": "&채권최고액  금103,200,000원&                                                                                                   ",
+      "EUL_PURPOSE": "&근저당권설정&                          "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "&설정계약&                    ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "&제132180호&                  ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&채무자&  &김종관&                                                                                                              ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&전라북도 전주시 완산구 전라감영2길 17&                                                                                         ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&(다가동1가)&                                                                                                                   ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&근저당권자&  &농협은행주식회사&  &110111-4809385&                                                                              ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&서울특별시 중구 통일로 120 (충정로1가)&                                                                                        ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&( 방배지점 )&                                                                                                                  ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2024년8월1일                  ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2024년8월1일                  ",
+      "EUL_NO": "4         ",
+      "EUL_ETC": "&채권최고액  금127,200,000원&                                                                                                   ",
+      "EUL_PURPOSE": "근저당권설정                            "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "설정계약                      ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제135140호                    ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "채무자  김종관                                                                                                                  ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "서울특별시 동작구 동작대로29길 195,                                                                                             ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "101동 702호 (사당동,사당유니드)                                                                                                 ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "근저당권자  주식회사하나은행  110111-0672538                                                                                    ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "서울특별시 중구 을지로 35 (을지로1가)                                                                                           ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "                              ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "                              ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "&( 방배서래지점 )&                                                                                                              ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2024년12월10일                ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2024년12월10일                ",
+      "EUL_NO": "4-1       ",
+      "EUL_ETC": "주식회사하나은행의 취급지점  업무혁신부                                                                                         ",
+      "EUL_PURPOSE": "4번등기명의인표시                       "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "취급지점변경                  ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제209429호                    ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "변경                                    "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2024년12월10일                ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2024년12월10일                ",
+      "EUL_NO": "4-2       ",
+      "EUL_ETC": "채권최고액  금12,000,000원                                                                                                      ",
+      "EUL_PURPOSE": "4번근저당권변경                         "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "변경계약                      ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제209430호                    ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "                                        "
+    },
+    {
+      "EUL_SEPARATOR": "N",
+      "EUL_REASON": "2024년8월1일                  ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "2024년8월1일                  ",
+      "EUL_NO": "5         ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "3번근저당권설정등                       "
+    },
+    {
+      "EUL_SEPARATOR": "1",
+      "EUL_REASON": "해지                          ",
+      "EUL_DOC_TYPE": "소유권 이외의 권리에 관한 사항          ",
+      "EUL_ACCEPT": "제135511호                    ",
+      "EUL_NO": "          ",
+      "EUL_ETC": "                                                                                                                                ",
+      "EUL_PURPOSE": "기말소                                  "
+    }
+  ],
+  "REGISTER_OFFICE": "서울중앙지방법원 등기국",
+  "KAP_DATA": [
+    {
+      "KAP_ACCEPT": "1990년4월16일                 ",
+      "KAP_NO": "1         ",
+      "KAP_REASON": "1990년3월30일                 ",
+      "KAP_PURPOSE": "소유권이전                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "소유자  이정인  411112-*******                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "제15271호                     ",
+      "KAP_NO": "(전 4)    ",
+      "KAP_REASON": "매매                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&서울 서초구 반포동 1157 반포아파트 48동&                                                                                       "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&502호&                                                                                                                         "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "부동산등기법시행규칙부칙 제3조 제1항의                                                                                          "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "규정에 의하여  1998년 05월 13일 전산이기                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "2005년8월1일                  ",
+      "KAP_NO": "1-1       ",
+      "KAP_REASON": "1990년4월16일                 ",
+      "KAP_PURPOSE": "1번등기명의인표시                       ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "이정인의 주소  서울 서초구 반포동 1161                                                                                          "
+    },
+    {
+      "KAP_ACCEPT": "제72487호                     ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "신청착오                      ",
+      "KAP_PURPOSE": "경정                                    ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "반포아파트 48-502                                                                                                               "
+    },
+    {
+      "KAP_ACCEPT": "2005년8월1일                  ",
+      "KAP_NO": "2         ",
+      "KAP_REASON": "2005년6월25일                 ",
+      "KAP_PURPOSE": "소유권이전                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "소유자  진석화  440609-*******                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "제72488호                     ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "매매                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "경기도 김포시 하성면 석탄리 135-2                                                                                               "
+    },
+    {
+      "KAP_ACCEPT": "2005년11월18일                ",
+      "KAP_NO": "3         ",
+      "KAP_REASON": "2005년10월16일                ",
+      "KAP_PURPOSE": "소유권이전                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "소유자  김시용  610717-*******                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "제97173호                     ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "매매                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "서울 구로구 개봉동 481 현대아파트                                                                                               "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "111-401                                                                                                                         "
+    },
+    {
+      "KAP_ACCEPT": "2022년9월8일                  ",
+      "KAP_NO": "4         ",
+      "KAP_REASON": "2022년8월11일                 ",
+      "KAP_PURPOSE": "소유권이전                              ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "소유자  김종관  740519-*******                                                                                                  "
+    },
+    {
+      "KAP_ACCEPT": "제132179호                    ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "매매                          ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&전라북도 전주시 완산구 전라감영2길 17&                                                                                         "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "&(다가동1가)&                                                                                                                   "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "거래가액 금175,000,000원                                                                                                        "
+    },
+    {
+      "KAP_ACCEPT": "2024년8월1일                  ",
+      "KAP_NO": "4-1       ",
+      "KAP_REASON": "2024년6월4일                  ",
+      "KAP_PURPOSE": "4번등기명의인표시                       ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "김종관의 주소  서울특별시 동작구                                                                                                "
+    },
+    {
+      "KAP_ACCEPT": "제135139호                    ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "주소변경                      ",
+      "KAP_PURPOSE": "변경                                    ",
+      "KAP_SEPARATOR": "N",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "동작대로29길 195, 101동 702호                                                                                                   "
+    },
+    {
+      "KAP_ACCEPT": "                              ",
+      "KAP_NO": "          ",
+      "KAP_REASON": "                              ",
+      "KAP_PURPOSE": "                                        ",
+      "KAP_SEPARATOR": "1",
+      "KAP_DOC_TYPE": "소유권에 관한 사항                      ",
+      "KAP_ETC": "(사당동,사당유니드)                                                                                                             "
+    }
+  ],
+  "COLLATERAL3_DATA": [
+    {
+      "COLLATERAL3_ACCEPT": "1988년5월18일                 ",
+      "COLLATERAL3_BUILD_NAME": "제5층 제506호                                     ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "철근콩크리트조                                    ",
+      "COLLATERAL3_NO": "1         ",
+      "COLLATERAL3_SEPARATOR": "N",
+      "COLLATERAL3_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL3_ACCEPT": "                              ",
+      "COLLATERAL3_BUILD_NAME": "                                                  ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "26.63㎡                                           ",
+      "COLLATERAL3_NO": "(전 1)    ",
+      "COLLATERAL3_SEPARATOR": "5",
+      "COLLATERAL3_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL3_ACCEPT": "                              ",
+      "COLLATERAL3_BUILD_NAME": "                                                  ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "                                                  ",
+      "COLLATERAL3_NO": "          ",
+      "COLLATERAL3_SEPARATOR": "N",
+      "COLLATERAL3_ETC": "부동산등기법시행규칙부칙 제3조 제1항의                          "
+    },
+    {
+      "COLLATERAL3_ACCEPT": "                              ",
+      "COLLATERAL3_BUILD_NAME": "                                                  ",
+      "COLLATERAL3_DOC_TYPE": "전유부분의 건물의 표시                  ",
+      "COLLATERAL3_BUILD_CONTENT": "                                                  ",
+      "COLLATERAL3_NO": "          ",
+      "COLLATERAL3_SEPARATOR": "1",
+      "COLLATERAL3_ETC": "규정에 의하여  1998년 05월 13일 전산이기                        "
+    }
+  ],
+  "EUL_COUNT": "00029",
+  "COLLATERAL_DATA": [],
+  "SUMMARY_A_COUNT": "00002",
+  "COLLATERAL4_COUNT": "00004",
+  "DOC_TYPE": "",
+  "COLLATERAL_COUNT": "00000",
+  "COLLATERAL1_DATA": [
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&서울특별시 서초구 방배동&                        ",
+      "COLLATERAL1_ACCEPT": "&1988년5월18일&               ",
+      "COLLATERAL1_BUILD_CONTENT": "&철근콩크리트조 슬래지붕&                         ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "&1&       ",
+      "COLLATERAL1_ETC": "&도면편철장 제2책379장&                                         "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "&831-9&                                           ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&5층&                                             ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "&(전 1)&  ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&업무시설(근린생활시설)&                          ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&1층 315㎡&                                       ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&2층 315㎡&                                       ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&3층 315㎡&                                       ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&4층 315㎡&                                       ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&5층 315㎡&                                       ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&지층 248.30㎡&                                   ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&(층별용도:지층-주차장&                           ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&189.78㎡&                                        ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&보일러실 58.52㎡&                                ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&1층-근린생활시설 26.28㎡&                        ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&업무시설 288.72㎡&                               ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "5",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "&2층-5층 업무시설)&                               ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "                                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "부동산등기법시행규칙부칙                                        "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "                                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "제3조 제1항의 규정에                                            "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "                                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "의하여  1998년 05월 13일                                        "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "1",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "                                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "전산이기                                                        "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "서울특별시 서초구 방배동                          ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "철근콩크리트조 슬래지붕                           ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "2         ",
+      "COLLATERAL1_ETC": "도로명주소                                                      "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "831-9                                             ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "5층                                               ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "2013년10월28일  등기                                            "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "[도로명주소]                                      ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "업무시설(근린생활시설)                            ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "서울특별시 서초구                                 ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "1층 315㎡                                         ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "방배중앙로 110                                    ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "2층 315㎡                                         ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "3층 315㎡                                         ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "4층 315㎡                                         ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "5층 315㎡                                         ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "지층 248.30㎡                                     ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "(층별용도:지층-주차장                             ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "189.78㎡                                          ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "보일러실 58.52㎡                                  ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "1",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "1층-근린생활시설 26.28㎡                          ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "N",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "업무시설 288.72㎡                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    },
+    {
+      "COLLATERAL1_SEPARATOR": "1",
+      "COLLATERAL1_BUILD_NAME": "                                                  ",
+      "COLLATERAL1_ACCEPT": "                              ",
+      "COLLATERAL1_BUILD_CONTENT": "2층-5층 업무시설)                                 ",
+      "COLLATERAL1_DOC_TYPE": "1동의 건물의 표시                       ",
+      "COLLATERAL1_NO": "          ",
+      "COLLATERAL1_ETC": "                                                                "
+    }
+  ],
+  "COLLATERAL4_DATA": [
+    {
+      "COLLATERAL4_SEPARATOR": "N",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "1         ",
+      "COLLATERAL4_LAND_RATE": "661.6분의 13.232              ",
+      "COLLATERAL4_LAND_KIND": "1 소유권대지권                                                                                                                  ",
+      "COLLATERAL4_ETC": "1988년5월11일 대지권                                            "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "4",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "(전 1)    ",
+      "COLLATERAL4_LAND_RATE": "                              ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "1988년5월18일                                                   "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "N",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "          ",
+      "COLLATERAL4_LAND_RATE": "                              ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "부동산등기법시행규칙부칙 제3조 제1항의                          "
+    },
+    {
+      "COLLATERAL4_SEPARATOR": "1",
+      "COLLATERAL4_DOC_TYPE": "대지권의 표시                           ",
+      "COLLATERAL4_NO": "          ",
+      "COLLATERAL4_LAND_RATE": "                              ",
+      "COLLATERAL4_LAND_KIND": "                                                                                                                                ",
+      "COLLATERAL4_ETC": "규정에 의하여  1998년 05월 13일 전산이기                        "
+    }
+  ],
+  "ISSUE_DATE": "20250212",
+  "COLLATERAL2_COUNT": "00004",
+  "BUILD_DATA": [],
+  "COLLATERAL1_COUNT": "00034",
+  "OUTPUT_FILENAME": "",
+  "ISSUE_TIME": "195055",
+  "SALE_DATA": [],
+  "SUMMARY_E_COUNT": "00004",
+  "HOLDER_DATA": [],
+  "SUMMARY_A_DATA": [
+    {
+      "SUMMARY_SEPARATOR_A": "N",
+      "SUMMARY_SHARE": "단독소유       ",
+      "SUMMARY_PRIORITY": "4         ",
+      "SUMMARY_REGNO_RESIDENT": "740519-*******      ",
+      "SUMMARY_NAME": "김종관 (소유자)               ",
+      "SUMMARY_ADDRESS": "서울특별시 동작구 동작대로29길 195, 101동 702호                 "
+    },
+    {
+      "SUMMARY_SEPARATOR_A": "1",
+      "SUMMARY_SHARE": "               ",
+      "SUMMARY_PRIORITY": "          ",
+      "SUMMARY_REGNO_RESIDENT": "                    ",
+      "SUMMARY_NAME": "                              ",
+      "SUMMARY_ADDRESS": "(사당동,사당유니드)                                             "
+    }
+  ],
+  "BUILD_COUNT": "00000",
+  "SUMMARY_K_COUNT": "00000",
+  "REAL_ESTATE_NO": "11021996072135",
+  "SUMMARY_K_DATA": [],
+  "ADDRESS": "[집합건물] 서울특별시 서초구 방배동 831-9 제5층 제506호",
+  "KAP_COUNT": "00019",
+  "LAND_DATA": [],
+  "LAND_COUNT": "00000",
+  "SUMMARY_E_DATA": [
+    {
+      "SUMMARY_PARTICULAR_E": "&채권최고액  금127,200,000원&                                   ",
+      "SUMMARY_PURPOSE_E": "근저당권설정                            ",
+      "SUMMARY_ACCEPT_E": "2024년8월1일                  ",
+      "SUMMARY_SEPARATOR_E": "N",
+      "SUMMARY_NO_E": "4         ",
+      "SUMMARY_OWNER_E": "김종관                        "
+    },
+    {
+      "SUMMARY_PARTICULAR_E": "근저당권자  주식회사하나은행                                    ",
+      "SUMMARY_PURPOSE_E": "                                        ",
+      "SUMMARY_ACCEPT_E": "제135140호                    ",
+      "SUMMARY_SEPARATOR_E": "1",
+      "SUMMARY_NO_E": "          ",
+      "SUMMARY_OWNER_E": "                              "
+    },
+    {
+      "SUMMARY_PARTICULAR_E": "2024년12월10일채권최고액  금12,000,000원                        ",
+      "SUMMARY_PURPOSE_E": "근저당권변경                            ",
+      "SUMMARY_ACCEPT_E": "                              ",
+      "SUMMARY_SEPARATOR_E": "N",
+      "SUMMARY_NO_E": "4-2       ",
+      "SUMMARY_OWNER_E": "김종관                        "
+    },
+    {
+      "SUMMARY_PARTICULAR_E": "                                                                ",
+      "SUMMARY_PURPOSE_E": "                                        ",
+      "SUMMARY_ACCEPT_E": "제209430호                    ",
+      "SUMMARY_SEPARATOR_E": "1",
+      "SUMMARY_NO_E": "          ",
+      "SUMMARY_OWNER_E": "                              "
+    }
+  ],
+  "TITLE": "등기사항전부증명서(말소사항 포함) - 집합건물",
+  "COLLATERAL3_COUNT": "00004",
+  "HOLDER_COUNT": "00000",
+  "DOC_DETAILS": "",
+  "COLLATERAL2_DATA": [
+    {
+      "COLLATERAL2_ETC": "1988년5월18일                                                   ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "대        ",
+      "COLLATERAL2_SEPARATOR": "N",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "1         ",
+      "COLLATERAL2_AREA": "661.6㎡             "
+    },
+    {
+      "COLLATERAL2_ETC": "                                                                ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "          ",
+      "COLLATERAL2_SEPARATOR": "5",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "(전 1)    ",
+      "COLLATERAL2_AREA": "                    "
+    },
+    {
+      "COLLATERAL2_ETC": "부동산등기법시행규칙부칙 제3조 제1항의                          ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "          ",
+      "COLLATERAL2_SEPARATOR": "N",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "          ",
+      "COLLATERAL2_AREA": "                    "
+    },
+    {
+      "COLLATERAL2_ETC": "규정에 의하여  1998년 05월 13일 전산이기                        ",
+      "COLLATERAL2_DOC_TYPE": "대지권의 목적인 토지의 표시             ",
+      "COLLATERAL2_LAND_CATEGORY": "          ",
+      "COLLATERAL2_SEPARATOR": "1",
+      "COLLATERAL2_ADDRESS": "                                                  ",
+      "COLLATERAL2_NO": "          ",
+      "COLLATERAL2_AREA": "                    "
+    }
+  ],
+  "SALE_COUNT": "00000"
+}
