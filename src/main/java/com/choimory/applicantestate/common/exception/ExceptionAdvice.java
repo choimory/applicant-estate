@@ -26,12 +26,4 @@ public class ExceptionAdvice {
                 .data(e.getMessage())
                 .build();
     }
-
-    @ExceptionHandler({CommonException.class})
-    public ResponseEntity<CommonResponse<String>> commonException(CommonException e) {
-        return new ResponseEntity<>(CommonResponse.<String>builder()
-                .status(e.getStatus())
-                .message(e.getMessage())
-                .build(), e.getHttpStatus());
-    }
 }
