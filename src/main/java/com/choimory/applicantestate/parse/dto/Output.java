@@ -1,11 +1,17 @@
 package com.choimory.applicantestate.parse.dto;
 
-import ch.qos.logback.core.util.StringUtil;
+import com.choimory.applicantestate.common.util.CommonDateFormatting;
 import lombok.Builder;
 import lombok.Getter;
+import org.springframework.util.CollectionUtils;
 import org.springframework.util.StringUtils;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.MatchResult;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 @Getter
 public class Output {
@@ -23,12 +29,22 @@ public class Output {
     }
 
     public static Output to(RawData rawData) {
-        return Output.builder()
+        return rawData != null ? Output.builder()
                 .title(Title.to(rawData.getAddress()))
-                //.owners()
-                //.gapgu()
-                //.eulgu()
-                .build();
+                .owners(rawData.getSummaryADataList().stream()
+                        .filter(data -> !data.getSummaryShare().isBlank())
+                        .map(data -> Owner.to(RawData.SummaryAData.builder()
+                                .summaryName(data.getSummaryName().trim()
+                                        .replaceAll("\\s+", "")
+                                        .replaceAll("\\(.*?\\)", ""))
+                                .summaryShare(data.getSummaryShare().trim())
+                                .summaryRegnoResident(data.getSummaryRegnoResident().trim())
+                                .summaryAddress(data.getSummaryAddress().trim())
+                                .build()))
+                        .collect(Collectors.toList()))
+                .gapgu(Gapgu.to(rawData.getKapDataList()))
+                .eulgu(Eulgu.to(rawData.getSummaryEDataList()))
+                .build() : null;
     }
 
     @Getter
@@ -43,9 +59,12 @@ public class Output {
         }
 
         public static Title to(String address) {
+            Pattern pattern = Pattern.compile("\\[(.*?)\\]");
+            Matcher matcher = pattern.matcher(address);
+
             return Title.builder()
                     .fullAddress(address)
-                    //.buildingType() // TODO address에서 첫번째 [내용] 파싱
+                    .buildingType(matcher.find() ? matcher.group() : "")
                     .build();
         }
     }
@@ -67,29 +86,28 @@ public class Output {
             this.buyDate = buyDate;
         }
 
-        public static Owner to() {
-            // TODO SUMMARY_A_DATA[]에서 공백 데이터 제외, 중복 데이터는 합산 (홍길동의 SHARE가 10/120, 30/120일시, 40/120)
-            return Owner.builder()
-                    //.name() // TODO SUMMARY_A_DATA[].SUMMARY_NAME
-                    //.age() // TODO SUMMARY_A_DATA[].SUMMARY_REGNO_RESIDENT
-                    //.share() // TODO SUMMARY_A_DATA[].SUMMARY_SHARE
-                    //.address() // TODO SUMMARY_A_DATA[].ADDRESS
-                    //.buyDate() // TODO ?
-                    .build();
+        public static Owner to(RawData.SummaryAData summaryAData) {
+            return summaryAData != null ? Owner.builder()
+                    .name(summaryAData.getSummaryName())
+                    .age(summaryAData.getSummaryRegnoResident())
+                    .share(summaryAData.getSummaryShare())
+                    .address(summaryAData.getSummaryAddress())
+                    .buyDate("") // TODO ?
+                    .build() : null;
         }
     }
 
     @Getter
     public static class Gapgu {
-        private final Integer seizureCount;
-        private final Integer provisionalSeizureCount;
-        private final Integer provisionalDispositionCount;
-        private final Integer voluntaryAuctionCount;
-        private final Integer compulsoryAuctionCount;
-        private final Integer bankruptcyCount;
+        private final Long seizureCount;
+        private final Long provisionalSeizureCount;
+        private final Long provisionalDispositionCount;
+        private final Long voluntaryAuctionCount;
+        private final Long compulsoryAuctionCount;
+        private final Long bankruptcyCount;
 
         @Builder
-        public Gapgu(Integer seizureCount, Integer provisionalSeizureCount, Integer provisionalDispositionCount, Integer voluntaryAuctionCount, Integer compulsoryAuctionCount, Integer bankruptcyCount) {
+        public Gapgu(Long seizureCount, Long provisionalSeizureCount, Long provisionalDispositionCount, Long voluntaryAuctionCount, Long compulsoryAuctionCount, Long bankruptcyCount) {
             this.seizureCount = seizureCount;
             this.provisionalSeizureCount = provisionalSeizureCount;
             this.provisionalDispositionCount = provisionalDispositionCount;
@@ -98,14 +116,38 @@ public class Output {
             this.bankruptcyCount = bankruptcyCount;
         }
 
-        public static Gapgu to() {
+        public static Gapgu to(List<RawData.KapData> kapDataList) {
             return Gapgu.builder()
-                    //.seizureCount() // TODO KAP_DATA[].KAP_PURPOSE="압류" 횟수
-                    //.provisionalSeizureCount() // TODO KAP_DATA[].KAP_PURPOSE="가압류" 횟수
-                    //.provisionalDispositionCount() // TODO KAP_DATA[].KAP_PURPOSE="가처분" 횟수
-                    //.voluntaryAuctionCount() // TODO KAP_DATA[].KAP_PURPOSE="임의경매개시결정" 횟수
-                    //.compulsoryAuctionCount() // TODO KAP_DATA[].KAP_PURPOSE="강제경매개시결정" 횟수
-                    //.bankruptcyCount() // TODO KAP_DATA[].KAP_PURPOSE="파산선고" 횟수
+                    .seizureCount(CollectionUtils.isEmpty(kapDataList) ? 0L
+                            : kapDataList.stream()
+                            .map(RawData.KapData::getKapPurpose)
+                            .filter(purpose -> purpose.contains("압류"))
+                            .count())
+                    .provisionalSeizureCount(CollectionUtils.isEmpty(kapDataList) ? 0L
+                            : kapDataList.stream()
+                            .map(RawData.KapData::getKapPurpose)
+                            .filter(purpose -> purpose.contains("가압류"))
+                            .count())
+                    .provisionalDispositionCount(CollectionUtils.isEmpty(kapDataList) ? 0L
+                            : kapDataList.stream()
+                            .map(RawData.KapData::getKapPurpose)
+                            .filter(purpose -> purpose.contains("가처분"))
+                            .count())
+                    .voluntaryAuctionCount(CollectionUtils.isEmpty(kapDataList) ? 0L
+                            : kapDataList.stream()
+                            .map(RawData.KapData::getKapPurpose)
+                            .filter(purpose -> purpose.contains("임의경매개시결정"))
+                            .count())
+                    .compulsoryAuctionCount(CollectionUtils.isEmpty(kapDataList) ? 0L
+                            : kapDataList.stream()
+                            .map(RawData.KapData::getKapPurpose)
+                            .filter(purpose -> purpose.contains("강제경매개시결정"))
+                            .count())
+                    .bankruptcyCount(CollectionUtils.isEmpty(kapDataList) ? 0L
+                            : kapDataList.stream()
+                            .map(RawData.KapData::getKapPurpose)
+                            .filter(purpose -> purpose.contains("파산선고"))
+                            .count())
                     .build();
         }
     }
@@ -125,12 +167,57 @@ public class Output {
             this.leaseDetails = leaseDetails;
         }
 
-        public static Eulgu to() {
+        public static Eulgu to(List<RawData.SummaryEData> summaryEDataList) {
+            //근저당권설정 객체 번호
+            List<Integer> collateralIndexes = new ArrayList<>();
+            for (int i = 0; i < summaryEDataList.size(); i++) {
+                if (summaryEDataList.get(i).getSummaryPurposeE().contains("근저당권설정") && summaryEDataList.get(i).getSummarySeparatorE().equals("N")) {
+                    collateralIndexes.add(i);
+                }
+            }
+
+            //근저당권 정보
+            List<CollateralDetail> collateralDetails = new ArrayList<>();
+            for (Integer index : collateralIndexes) {
+                collateralDetails.add(CollateralDetail.to(summaryEDataList.get(index), summaryEDataList.get(index + 1)));
+            }
+
+            //임차권설정 객체 번호
+            List<Integer> leaseIndexes = new ArrayList<>();
+            for (int i = 0; i < summaryEDataList.size(); i++) {
+                if (summaryEDataList.get(i).getSummaryPurposeE().contains("임차권설정") && summaryEDataList.get(i).getSummarySeparatorE().equals("N")) {
+                    leaseIndexes.add(i);
+                }
+            }
+
+            //임차권 정보
+            List<LeaseDetail> leaseDetails = new ArrayList<>();
+            for (Integer index : leaseIndexes) {
+                leaseDetails.add(LeaseDetail.to(summaryEDataList.get(index), summaryEDataList.get(index + 1)));
+            }
+
+            //반환
             return Eulgu.builder()
-                    //.collateralTotalAmount() // TODO EUL_DATA[].EUL_ETC에서 채권내용 파싱
-                    //.collateralsDetails()
-                    //.leaseTotalAmount() // TODO EUL_DATA[].EUL_ETC에서 임차내용 파싱
-                    //.leaseDetails()
+                    .collateralTotalAmount(CollectionUtils.isEmpty(summaryEDataList) ? 0L
+                            : summaryEDataList.stream()
+                            .filter(data -> data.getSummaryParticularE().contains("채권최고액"))
+                            .flatMap(data -> {
+                                Matcher matcher = Pattern.compile("[\\d,]+").matcher(data.getSummaryParticularE());
+                                return matcher.results().map(MatchResult::group);
+                            })
+                            .mapToLong(amount -> Long.parseLong(amount.replace(",", "")))
+                            .sum())
+                    .collateralsDetails(collateralDetails)
+                    .leaseTotalAmount(CollectionUtils.isEmpty(summaryEDataList) ? 0L
+                            : summaryEDataList.stream()
+                            .filter(data -> data.getSummaryParticularE().contains("임차보증금"))
+                            .flatMap(data -> {
+                                Matcher matcher = Pattern.compile("[\\d,]+").matcher(data.getSummaryParticularE());
+                                return matcher.results().map(MatchResult::group);
+                            })
+                            .mapToLong(amount -> Long.parseLong(amount.replace(",", "")))
+                            .sum())
+                    .leaseDetails(leaseDetails)
                     .build();
         }
     }
@@ -150,16 +237,12 @@ public class Output {
             this.collateralHolder = collateralHolder;
         }
 
-        public static CollateralDetail to() {
-            // 1.SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값중 채권최고액이 포함되어있으면 근저당권 내용
-            // 2. 1의 다음값은 근저당권자 내용
-            // 3. 2 다음에 근저당권 이전이 있으면 해당 내용이 케이스에 따라 있을수도 없을수도 있음
-
+        public static CollateralDetail to(RawData.SummaryEData data, RawData.SummaryEData holder) {
             return CollateralDetail.builder()
-                    //.rankNo()
-                    //.date() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '채권최고액'이 포함되어 있는 객체의 SUMMARY_ACCEPT_E를 포맷변경
-                    //.amount() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '채권최고액'이 포함되어 있는 객체의 SUMMARY_PARTICULAR_E에서 '채권최고액' 다음에 오는 값을 파싱하여 포맷변경
-                    //.collateralHolder() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '채권최고액'이 포함되어 있는 객체의 다음 객체에서 '근저당권자' 다음에 오는 값을 파싱 -> 근저당권이전으로 두번 붙을수도 있음
+                    .rankNo(data.getSummaryNoE().trim())
+                    .date(StringUtils.hasText(data.getSummaryAcceptE()) ? CommonDateFormatting.to("[^가-힣0-9]", data.getSummaryAcceptE()) : "")
+                    .amount(Long.parseLong(data.getSummaryParticularE().replaceAll("[^0-9]", "")))
+                    .collateralHolder(holder.getSummaryParticularE().replaceAll("근저당권자", "").replaceAll("[^가-힣0-9\\s]", "").trim())
                     .build();
         }
     }
@@ -179,15 +262,12 @@ public class Output {
             this.leaseHolder = leaseHolder;
         }
 
-        public static LeaseDetail to() {
-            // 1.SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값중 임차보증금이 포함되어있으면 임차권 내용
-            // 2. 1의 다음값은 임차권자 내용
-
+        public static LeaseDetail to(RawData.SummaryEData data, RawData.SummaryEData holder) {
             return LeaseDetail.builder()
-                    //.rankNo()
-                    //.date() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '임차보증금'이 포함되어 있는 객체의 SUMMARY_ACCEPT_E를 포맷변경
-                    //.amount() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '임차보증금'이 포함되어 있는 객체의 SUMMARY_PARTICULAR_E에서 '임차보증금' 다음에 오는 값을 파싱하여 포맷변경
-                    //.leaseHolder() // TODO SUMMARY_E_DATA[].SUMMARY_PARTICULAR_E의 값에 '임차보증금'이 포함되어 있는 객체의 다음 객체에서 '임차권자' 다음에 오는 값을 파싱
+                    .rankNo(data.getSummaryNoE())
+                    .date(StringUtils.hasText(data.getSummaryAcceptE()) ? CommonDateFormatting.to("[^가-힣0-9]", data.getSummaryAcceptE()) : "")
+                    .amount(Long.parseLong(data.getSummaryParticularE().replaceAll("[^0-9]", "")))
+                    .leaseHolder(holder.getSummaryParticularE().replaceAll("임차권자", "").replaceAll("[^가-힣0-9\\s]", "").trim())
                     .build();
         }
     }
